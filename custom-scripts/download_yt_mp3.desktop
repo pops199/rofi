@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Download_MP3
+Comment=Download Youtube Videos as MP3
+Exec=./downloadmp3.sh
+Terminal=false
+Type=Application  
+Icon=terminal
+Categories=Application;
