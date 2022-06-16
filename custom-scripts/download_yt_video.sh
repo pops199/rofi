@@ -15,4 +15,4 @@
 targeturl="$(rofi -dmenu -p Enter_URL </dev/null)"
 
 # Pass targeturl to youtube downloader (works for any kind of video)
-yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -P /home/johan/videos "$targeturl"
+yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -P /home/johan/Videos "$targeturl"
